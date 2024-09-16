@@ -29,13 +29,9 @@
         "Default": true
       },
       {
-        "Name": "BlueTeam",
-        "DisplayName": "Teams/Blue",
+        "Name": "blackTeam",
+        "DisplayName": "Teams/black",
         "Default": true
-      },
-      {
-        "Name": "BlueHasNothing",
-        "DisplayName": "GmParams/BlueHasNothing"
       },
       {
         "Name": "FloodFill",
@@ -48,11 +44,6 @@
       {
         "Name": "RemoveQuad",
         "DisplayName": "GmParams/RemoveQuad"
-      },
-      {
-        "Name": "Fly",
-        "DisplayName": "GmParams/Fly",
-        "Default": true
       }
     ]
   }
